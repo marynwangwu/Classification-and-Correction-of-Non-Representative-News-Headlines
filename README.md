@@ -1,4 +1,5 @@
 # Classification and Correction of Non-Representative News Headlines
+By Mary Nwangwu, [Allison Redfern](https://github.com/allisonredfern), [Annabelle Huether](https://github.com/annabellehuether), [Gail Batutis](https://github.com/gbatutis), and Mallory Sico
 
 ## Abstract:
 This project addresses the issue of inaccurate headlines in news media by developing a model to classify headline-article alignment and suggest improvements
